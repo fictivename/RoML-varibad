@@ -1,1 +1,13 @@
+.DS_Store
+*.pyc
+__pycache__
 .idea
+.ipynb_checkpoints/
+
+logs/
+scripts/
+docker/
+tmp_logs/
+outputs/
+others/
+wandb/
