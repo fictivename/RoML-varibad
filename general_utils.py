@@ -1,7 +1,5 @@
 '''
 General utils
-
-Written by Ido Greenberg, 2020
 '''
 
 import os, gc, random
